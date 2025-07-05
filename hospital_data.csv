@@ -1,0 +1,6 @@
+age,gender,days_in_hospital,lab_procedures,medications,visits_last_year,readmitted
+45,M,4,45,10,2,0
+65,F,7,60,15,3,1
+34,F,2,30,8,0,0
+78,M,10,70,20,5,1
+50,M,3,40,9,1,0
